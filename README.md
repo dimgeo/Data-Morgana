@@ -41,6 +41,6 @@ Starting with a dummy array of 8 age groups in various compartments, you can run
    ```
         
    
-Use the printing routine for say 100 iterations, e.g. prseci 100. Please note that the released code uses a log scale and your graphs will look differently than this one.
+Use the printing routine for say 100 iterations, e.g. prseci 100. Please note that in some occasions the released code has a log scale (ylog 1).
 
 ![graphs](https://github.com/dimgeo/Data-Morgana/blob/0c70ffd832d84f5630ddd01d9a70ec8ee76b483f/graphs.png)
