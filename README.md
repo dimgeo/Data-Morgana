@@ -6,9 +6,9 @@ The code can be run on Windows, MacOS, Linux (also Raspberry) and Android using 
 The project team can be contacted at research@bmrk.nl (www.biomedische-rekenkamer.nl)
 
 
-<pre>
-Starting with a dummy array of 8 age groups in various compartments, you can run the SIR equations by calling the base routine and receive a corresponding array for each iteration using a simple Forward Euler with dt = 1 day.  
 
+Starting with a dummy array of 8 age groups in various compartments, you can run the SIR equations by calling the base routine and receive a corresponding array for each iteration using a simple Forward Euler with dt = 1 day.  
+<pre>
       inputs
       
 100000 10 10 10 10 10 10 10 10 10 10 10 10 10
