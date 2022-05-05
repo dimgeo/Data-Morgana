@@ -7,7 +7,7 @@ The project team can be contacted at research@bmrk.nl (www.biomedische-rekenkame
 
 
 Starting with a dummy array of 8 age groups in various compartments, you can run the SIR equations by calling the base routine and receive a corresponding array for each iteration using a simple Forward Euler with dt = 1 day.  
-<pre>
+```
       inputs
       
 100000 10 10 10 10 10 10 10 10 10 10 10 10 10
@@ -38,10 +38,9 @@ Starting with a dummy array of 8 age groups in various compartments, you can run
 │    10 12.2215 13.8447 14.9433│    10 12.2211 13.8438 14.9419│    10 12.2197 13.8408 14.9371│    10 12.2157  13.832 14.9233│    10 12.2017 13.8015 14.8749│    10 12.1317 13.6493 14.6338│    10 11.9817 13.3263 14.1261│    10 11.2117 11.7396 11.7306│
 │    10 10.4688 11.0597 11.7348│    10 10.4689 11.0598 11.7349│    10  10.469 11.0601 11.7353│    10 10.4694 11.0609 11.7364│    10 10.4708 11.0636 11.7404│    10 10.4778 11.0774 11.7598│    10 10.4928 11.1064 11.8005│    10 10.5698 11.2486 11.9897│
 └──────────────────────────────┴──────────────────────────────┴──────────────────────────────┴──────────────────────────────┴──────────────────────────────┴──────────────────────────────┴──────────────────────────────┴──────────────────────────────┘
-   
-      </pre>
+   ```
         
    
 Use the printing routine for say 100 iterations, e.g. prseci 100
 
-[graphs](https://github.com/dimgeo/Data-Morgana/blob/0c70ffd832d84f5630ddd01d9a70ec8ee76b483f/graphs.png)
+![graphs](https://github.com/dimgeo/Data-Morgana/blob/0c70ffd832d84f5630ddd01d9a70ec8ee76b483f/graphs.png)
