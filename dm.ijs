@@ -4,7 +4,7 @@ load 'tables/csv'
 NB. Data Morgana v 0.1a
 NB. (c) Stichting Biomedische Rekenkamer, Biodys BV, D. Georganas
 NB.
-NB. ==========  Parameters can be optained from a CSV file, e.g.
+NB. ==========  Parameters can be obtained from a CSV file, e.g.
 NB.
 NB. ┌──────┬────┐
 NB. │eta_ds│0.48│
