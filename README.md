@@ -5,6 +5,11 @@ The code can be run on Windows, MacOS, Linux (also Raspberry) and Android using 
 
 The project team can be contacted at research@bmrk.nl (www.biomedische-rekenkamer.nl)
 
+Use the printing routine for say 100 iterations, e.g. prseci 100
+
+           ![graphs](https://github.com/dimgeo/Data-Morgana/blob/0c70ffd832d84f5630ddd01d9a70ec8ee76b483f/graphs.png)
+
+
 
 
 Starting with a dummy array of 8 age groups in various compartments, you can run the SIR equations by calling the base routine and receive a corresponding array for each iteration using a simple Forward Euler with dt = 1 day.  
@@ -42,5 +47,4 @@ Starting with a dummy array of 8 age groups in various compartments, you can run
    
       </pre>
         
-       Use the printing routine for say 100 iterations, e.g. prseci 100
-           ![graphs](https://github.com/dimgeo/Data-Morgana/blob/0c70ffd832d84f5630ddd01d9a70ec8ee76b483f/graphs.png)
+   
