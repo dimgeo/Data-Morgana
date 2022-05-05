@@ -43,4 +43,4 @@ Starting with a dummy array of 8 age groups in various compartments, you can run
       </pre>
         
        Use the printing routine for say 100 iterations, e.g. prseci 100
-             
+             <img src="graphs.png">
