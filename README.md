@@ -3,8 +3,6 @@ Extended SIR models for modeling the outcome of pharmaceutical and (soon) non-ph
 
 The code can be run on Windows, MacOS, Linux (also Raspberry) and Android using the array programming language J available as a free download from www.jsoftware.com. 
 
-The project team can be contacted at research@bmrk.nl (www.biomedische-rekenkamer.nl)
-
 
 Starting with a dummy array of 8 age groups in various compartments, you can run the SIR equations by calling the base routine and receive a corresponding array for each iteration using a simple Forward Euler with dt = 1 day.  
 ```
